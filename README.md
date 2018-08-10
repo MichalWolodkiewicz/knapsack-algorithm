@@ -1,6 +1,6 @@
 # knapsack-algorithm
 
-This project contains few kanpsack algorithm implementation:
+This project contains few kanpsack algorithm implementations:
 - brute force
 - greedy
 - dynamic
